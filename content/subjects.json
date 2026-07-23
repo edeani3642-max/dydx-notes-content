@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-23T00:00:00.000Z",
+  "subjects": [
+    {
+      "id": "mathematics",
+      "title": "Mathematics",
+      "description": "The study of numbers, structures, patterns, quantities, and logical relationships.",
+      "topics": [
+        {
+          "id": "algebra",
+          "title": "Algebra",
+          "description": "The study of mathematical symbols and the rules for manipulating them.",
+          "subtopics": [
+            {
+              "id": "linear-equations",
+              "title": "Linear Equations",
+              "description": "Equations in which the highest power of the variable is one.",
+              "path": "mathematics/algebra/linear-equations.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

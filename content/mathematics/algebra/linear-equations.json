@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-23T00:00:00.000Z",
+
+  "id": "linear-equations",
+
+  "title": "Linear Equations",
+
+  "description": "Equations in which the highest power of the variable is one.",
+
+  "blocks": [
+    {
+      "type": "text",
+      "content": "A linear equation is an equation in which the variable has a maximum exponent of one."
+    },
+
+    {
+      "type": "formula",
+      "content": "KaT[ax + b = 0]"
+    },
+
+    {
+      "type": "solution",
+      "title": "Solve the equation 3x + 7 = 22",
+      "steps": [
+        {
+          "label": "Step 1",
+          "content": "Start with the original equation.",
+          "formula": "KaT[3x + 7 = 22]"
+        },
+        {
+          "label": "Step 2",
+          "content": "Subtract 7 from both sides.",
+          "formula": "KaT[3x = 15]"
+        },
+        {
+          "label": "Step 3",
+          "content": "Divide both sides by 3.",
+          "formula": "KaT[x = 5]"
+        }
+      ]
+    },
+
+    {
+      "type": "image",
+      "src": "https://example.com/linear-equation.png",
+      "alt": "Graph of a linear equation"
+    },
+
+    {
+      "type": "video",
+      "src": "https://www.youtube.com/watch?v=VIDEO_ID"
+    }
+  ]
+}
