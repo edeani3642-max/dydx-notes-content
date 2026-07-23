@@ -47,17 +47,10 @@
       "alt": "Graph of a linear equation",
       "title": "Graph of a Linear Equation"
     },
-
-    {
-      "type": "image",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cartesian-coordinate-system.svg/1280px-Cartesian-coordinate-system.svg.png",
-      "alt": "Cartesian coordinate system showing the relationship between x and y",
-      "title": "The Cartesian Coordinate System"
-    },
-
+    
     {
       "type": "video",
-      "src": "https://www.youtube.com/embed/kixT7U0YV3E",
+      "src": "https://www.youtube.com/embed/aEj6k-gi9-s",
       "title": "Introduction to Linear Equations"
     }
   ]
