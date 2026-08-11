@@ -2,7 +2,7 @@
   "head": {
     "title": "Newton's Laws of Motion",
     "description": "An introduction to Newton's three laws of motion and how they describe the relationship between forces and motion.",
-    "image": "https://example.com/images/newtons-laws.webp"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Newton%27s_cradle_animation_book_2.gif"
   },
   "content": [
     {
@@ -30,12 +30,12 @@
     {
       "type": "image",
       "title": "Newton's First Law",
-      "content": "https://example.com/images/first-law.webp"
+      "content": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Newton%27s_cradle.jpg"
     },
     {
       "type": "video",
       "title": "Introduction to Newton's Laws",
-      "content": "https://www.youtube.com/embed/example"
+      "content": "https://www.youtube.com/embed/kKKM8Y-u7ds"
     },
     {
       "type": "heading",
