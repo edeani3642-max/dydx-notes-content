@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "courses": [
+    {
+      "course": "phy-102",
+      "Image": "",
+      "content": [
+        {
+          "topic": "mechanics",
+          "Image": "",
+          "content": [
+            {
+              "lessonid": "newtons-laws",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

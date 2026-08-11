@@ -1,0 +1,71 @@
+{
+  "head": {
+    "title": "Newton's Laws of Motion",
+    "description": "An introduction to Newton's three laws of motion and how they describe the relationship between forces and motion.",
+    "image": "https://example.com/images/newtons-laws.webp"
+  },
+  "content": [
+    {
+      "type": "heading",
+      "size": 1,
+      "content": "Newton's Laws of Motion"
+    },
+    {
+      "type": "text",
+      "content": "Newton's laws provide a framework for understanding how forces affect the motion of objects."
+    },
+    {
+      "type": "heading",
+      "size": 2,
+      "content": "Newton's First Law"
+    },
+    {
+      "type": "text",
+      "content": "An object remains at rest or continues moving with constant velocity unless acted upon by a net external force."
+    },
+    {
+      "type": "formula",
+      "content": "KaT[\\sum F = 0]"
+    },
+    {
+      "type": "image",
+      "title": "Newton's First Law",
+      "content": "https://example.com/images/first-law.webp"
+    },
+    {
+      "type": "video",
+      "title": "Introduction to Newton's Laws",
+      "content": "https://www.youtube.com/embed/example"
+    },
+    {
+      "type": "heading",
+      "size": 2,
+      "content": "Newton's Second Law"
+    },
+    {
+      "type": "text",
+      "content": "The net force acting on an object is equal to the product of its mass and acceleration."
+    },
+    {
+      "type": "formula",
+      "content": "KaT[F = ma]"
+    },
+    {
+      "type": "solution",
+      "content": [
+        {
+          "instruction": "Identify the mass and acceleration.",
+          "solution": "KaT[m = 5\\,kg,\\quad a = 2\\,m/s^2]"
+        },
+        {
+          "instruction": "Apply Newton's second law.",
+          "solution": "KaT[F = ma = 5 \\times 2 = 10\\,N]"
+        },
+        {
+          "instruction": "State the answer.",
+          "solution": "KaT[F = 10\\,N]"
+        }
+      ]
+    }
+  ]
+}
