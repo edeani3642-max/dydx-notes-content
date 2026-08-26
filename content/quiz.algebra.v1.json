@@ -1,0 +1,120 @@
+{
+  "id": "quiz.algebra.v1",
+  "course": "math-102",
+  "topic": "algebra",
+  "version": 1,
+  "questions": [
+    {
+      "id": "algebra-001",
+      "type": "single_select",
+      "question": "If 2x + 5 = 13, what is the value of x?",
+      "options": [
+        {
+          "value": "A",
+          "label": "2"
+        },
+        {
+          "value": "B",
+          "label": "4"
+        },
+        {
+          "value": "C",
+          "label": "6"
+        },
+        {
+          "value": "D",
+          "label": "9"
+        }
+      ],
+      "correctValues": ["B"],
+      "explanation": {
+        "text": "Subtract 5 from both sides to get 2x = 8. Dividing by 2 gives x = 4.",
+        "learnMore": false
+      }
+    },
+    {
+      "id": "algebra-002",
+      "type": "single_select",
+      "question": "Simplify: 3x + 5x − 2x.",
+      "options": [
+        {
+          "value": "A",
+          "label": "4x"
+        },
+        {
+          "value": "B",
+          "label": "5x"
+        },
+        {
+          "value": "C",
+          "label": "6x"
+        },
+        {
+          "value": "D",
+          "label": "10x"
+        }
+      ],
+      "correctValues": ["C"],
+      "explanation": {
+        "text": "Combine like terms: 3x + 5x − 2x = 6x.",
+        "learnMore": false
+      }
+    },
+    {
+      "id": "algebra-003",
+      "type": "single_select",
+      "question": "What is the value of 3² + 4²?",
+      "options": [
+        {
+          "value": "A",
+          "label": "7"
+        },
+        {
+          "value": "B",
+          "label": "12"
+        },
+        {
+          "value": "C",
+          "label": "25"
+        },
+        {
+          "value": "D",
+          "label": "49"
+        }
+      ],
+      "correctValues": ["C"],
+      "explanation": {
+        "text": "3² = 9 and 4² = 16. Therefore 9 + 16 = 25.",
+        "learnMore": false
+      }
+    },
+    {
+      "id": "algebra-004",
+      "type": "single_select",
+      "question": "Which expression is equivalent to (x + 2)(x + 3)?",
+      "options": [
+        {
+          "value": "A",
+          "label": "x² + 5x + 6"
+        },
+        {
+          "value": "B",
+          "label": "x² + 6x + 5"
+        },
+        {
+          "value": "C",
+          "label": "x² + 5"
+        },
+        {
+          "value": "D",
+          "label": "x² + 6"
+        }
+      ],
+      "correctValues": ["A"],
+      "explanation": {
+        "text": "Expanding gives x² + 3x + 2x + 6 = x² + 5x + 6.",
+        "learnMore": false
+      }
+    }
+  ]
+}
