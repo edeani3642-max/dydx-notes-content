@@ -1,0 +1,7 @@
+{
+    "phy-102" : {
+        "topics" : {
+            "mechanics" : "quiz.mechanics.v1.json"
+        }
+    }
+}
