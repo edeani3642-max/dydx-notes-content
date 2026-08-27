@@ -1,0 +1,26 @@
+﻿{
+  "id": "quiz.theory.calculus.v1",
+  "course": "math-102",
+  "topic": "calculus",
+  "version": 1,
+  "questions": [
+    {
+      "id": "calculus-theory-001",
+      "type": "theory",
+      "question": "Explain what a derivative represents geometrically.",
+      "explanation": {
+        "text": "Geometrically, the derivative at a point represents the gradient or slope of the tangent to the curve at that point.",
+        "learnMore": false
+      }
+    },
+    {
+      "id": "calculus-theory-002",
+      "type": "theory",
+      "question": "Explain the relationship between differentiation and integration.",
+      "explanation": {
+        "text": "Differentiation and integration are closely related inverse operations. The Fundamental Theorem of Calculus connects them under suitable conditions.",
+        "learnMore": false
+      }
+    }
+  ]
+}

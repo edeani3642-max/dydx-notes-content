@@ -1,0 +1,35 @@
+﻿{
+  "id": "quiz.theory.thermal-physics.v1",
+  "course": "phy-102",
+  "topic": "thermal-physics",
+  "version": 1,
+  "questions": [
+    {
+      "id": "thermal-theory-001",
+      "type": "theory",
+      "question": "Explain the difference between heat and temperature.",
+      "explanation": {
+        "text": "Heat is energy transferred between bodies because of a temperature difference, while temperature is a measure related to the average kinetic energy of particles in a substance.",
+        "learnMore": false
+      }
+    },
+    {
+      "id": "thermal-theory-002",
+      "type": "theory",
+      "question": "What is thermal equilibrium?",
+      "explanation": {
+        "text": "Thermal equilibrium occurs when bodies in thermal contact reach the same temperature and there is no net transfer of thermal energy between them.",
+        "learnMore": false
+      }
+    },
+    {
+      "id": "thermal-theory-003",
+      "type": "theory",
+      "question": "Explain the meaning of specific heat capacity.",
+      "explanation": {
+        "text": "Specific heat capacity is the quantity of heat energy required to raise the temperature of one unit mass of a substance by one degree Celsius or one kelvin.",
+        "learnMore": false
+      }
+    }
+  ]
+}

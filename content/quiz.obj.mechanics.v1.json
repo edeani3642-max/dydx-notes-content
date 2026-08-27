@@ -1,0 +1,92 @@
+﻿{
+  "id": "quiz.obj.mechanics.v1",
+  "course": "phy-102",
+  "topic": "mechanics",
+  "version": 1,
+  "questions": [
+    {
+      "id": "mechanics-001",
+      "type": "single-select",
+      "question": "A body starts from rest and accelerates uniformly at KaT[2\\,m/s^2]. What is its velocity after KaT[5\\,s]?",
+      "options": [
+        {
+          "value": "A",
+          "label": "KaT[5\\,m/s]"
+        },
+        {
+          "value": "B",
+          "label": "KaT[10\\,m/s]"
+        },
+        {
+          "value": "C",
+          "label": "KaT[15\\,m/s]"
+        },
+        {
+          "value": "D",
+          "label": "KaT[20\\,m/s]"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "text": "Using KaT[v = u + at], with KaT[u = 0], KaT[a = 2\\,m/s^2], and KaT[t = 5\\,s], we obtain KaT[v = 10\\,m/s].",
+        "learnMore": false
+      }
+    },
+    {
+      "id": "mechanics-002",
+      "type": "single-select",
+      "question": "Which of the following is a vector quantity?",
+      "options": [
+        {
+          "value": "A",
+          "label": "Mass"
+        },
+        {
+          "value": "B",
+          "label": "Time"
+        },
+        {
+          "value": "C",
+          "label": "Displacement"
+        },
+        {
+          "value": "D",
+          "label": "Temperature"
+        }
+      ],
+      "answer": "C",
+      "explanation": {
+        "text": "Displacement has both magnitude and direction, so it is a vector quantity.",
+        "learnMore": false
+      }
+    },
+    {
+      "id": "mechanics-003",
+      "type": "single-select",
+      "question": "A force of KaT[10\\,N] acts on a mass of KaT[2\\,kg]. What is the acceleration?",
+      "options": [
+        {
+          "value": "A",
+          "label": "KaT[2\\,m/s^2]"
+        },
+        {
+          "value": "B",
+          "label": "KaT[5\\,m/s^2]"
+        },
+        {
+          "value": "C",
+          "label": "KaT[10\\,m/s^2]"
+        },
+        {
+          "value": "D",
+          "label": "KaT[20\\,m/s^2]"
+        }
+      ],
+      "answer": "B",
+      "explanation": {
+        "text": "From Newton's second law, KaT[F = ma]. Therefore KaT[a = F/m = 10/2 = 5\\,m/s^2].",
+        "learnMore": false
+      }
+    }
+  ]
+}

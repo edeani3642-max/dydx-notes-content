@@ -1,7 +1,27 @@
-{
-    "phy-102" : {
-        "topics" : {
-            "mechanics" : "quiz.mechanics.v1.json"
-        }
+﻿{
+  "phy-102": {
+    "topics": {
+      "mechanics": {
+        "objective": "quiz.obj.mechanics.v1.json",
+        "theory": "quiz.theory.mechanics.v1.json"
+      },
+      "waves": {
+        "objective": "quiz.obj.waves.v1.json"
+      },
+      "thermal-physics": {
+        "theory": "quiz.theory.thermal-physics.v1.json"
+      }
     }
+  },
+  "math-102": {
+    "topics": {
+      "algebra": {
+        "objective": "quiz.obj.algebra.v1.json"
+      },
+      "calculus": {
+        "objective": "quiz.obj.calculus.v1.json",
+        "theory": "quiz.theory.calculus.v1.json"
+      }
+    }
+  }
 }
