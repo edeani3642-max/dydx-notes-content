@@ -1,5 +1,10 @@
 ﻿{
   "phy-102": {
+    "standard": {
+      "questionCount": 40,
+      "timeMinutes": 60,
+      "readMode": false
+    },
     "topics": {
       "mechanics": {
         "objective": "quiz.obj.mechanics.v1.json",
@@ -13,7 +18,13 @@
       }
     }
   },
+
   "math-102": {
+    "standard": {
+      "questionCount": 30,
+      "timeMinutes": 45,
+      "readMode": false
+    },
     "topics": {
       "algebra": {
         "objective": "quiz.obj.algebra.v1.json"
