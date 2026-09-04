@@ -4,6 +4,11 @@
     {
       "course": "phy-102",
       "Image": "",
+      "standard": {
+        "questionCount": 40,
+        "timeMinutes": 60,
+        "readMode": false
+      },
       "content": [
         {
           "topic": "mechanics",
